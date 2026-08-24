@@ -1,7 +1,0 @@
-Generated with the built-in image generation tool on 2026-08-12.
-
-Use case: precise-object-edit
-Asset: 3 x 3 synchronized eye-direction sprite sheet for the homepage avatar.
-Reference: public/avatar-3d-transparent.png
-Directions: upper-left, up, upper-right, left, center, right, lower-left, down, lower-right.
-Post-processing: flat #ff00ff chroma background removed locally to produce avatar-eye-sprite-v1.png.
