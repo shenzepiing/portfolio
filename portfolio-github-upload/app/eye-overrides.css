@@ -520,6 +520,7 @@ main {
 
 .services-list .service-entry .service-toggle {
   background: var(--service-color);
+  color: #151515;
   transition: background-color 240ms ease, border-radius 240ms ease, box-shadow 240ms ease;
 }
 
@@ -1098,6 +1099,7 @@ main {
   border: 0;
   border-radius: 12px 12px 0 0;
   box-shadow: none;
+  color: #151515;
   cursor: pointer;
   flex: none;
   font-size: 11px;
